@@ -1,0 +1,7 @@
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\3 курс\C#\SecondLab\MatrixClass\bin\Debug\MatrixClass.exe.config
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\3 курс\C#\SecondLab\MatrixClass\bin\Debug\MatrixClass.exe
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\3 курс\C#\SecondLab\MatrixClass\bin\Debug\MatrixClass.pdb
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\3 курс\C#\SecondLab\MatrixClass\obj\Debug\MatrixClass.csproj.CoreCompileInputs.cache
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\3 курс\C#\SecondLab\MatrixClass\obj\Debug\MatrixClass.exe
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\3 курс\C#\SecondLab\MatrixClass\obj\Debug\MatrixClass.pdb
+C:\Users\Якуповы\Desktop\Рабочий стол\Учёба\3 курс\C#\SecondLab\MatrixClass\obj\Debug\MatrixClass.csprojResolveAssemblyReference.cache
